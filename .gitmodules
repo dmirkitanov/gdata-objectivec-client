@@ -1,0 +1,9 @@
+[submodule "Libs/gtm-http-fetcher"]
+	path = Libs/gtm-http-fetcher
+	url = git://github.com/dmirkitanov/gtm-http-fetcher.git
+[submodule "Libs/gtm-oauth2"]
+	path = Libs/gtm-oauth2
+	url = git://github.com/dmirkitanov/gtm-oauth2.git
+[submodule "Libs/json-framework"]
+	path = Libs/json-framework
+	url = git://github.com/stig/json-framework.git
